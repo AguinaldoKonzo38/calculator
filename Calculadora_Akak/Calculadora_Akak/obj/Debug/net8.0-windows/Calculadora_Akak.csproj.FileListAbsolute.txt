@@ -1,0 +1,16 @@
+C:\Users\E7440\Documents\akakprograming\Projectos_C#\Calculadora_Akak\Calculadora_Akak\bin\Debug\net8.0-windows\Calculadora_Akak.exe
+C:\Users\E7440\Documents\akakprograming\Projectos_C#\Calculadora_Akak\Calculadora_Akak\bin\Debug\net8.0-windows\Calculadora_Akak.deps.json
+C:\Users\E7440\Documents\akakprograming\Projectos_C#\Calculadora_Akak\Calculadora_Akak\bin\Debug\net8.0-windows\Calculadora_Akak.runtimeconfig.json
+C:\Users\E7440\Documents\akakprograming\Projectos_C#\Calculadora_Akak\Calculadora_Akak\bin\Debug\net8.0-windows\Calculadora_Akak.dll
+C:\Users\E7440\Documents\akakprograming\Projectos_C#\Calculadora_Akak\Calculadora_Akak\bin\Debug\net8.0-windows\Calculadora_Akak.pdb
+C:\Users\E7440\Documents\akakprograming\Projectos_C#\Calculadora_Akak\Calculadora_Akak\obj\Debug\net8.0-windows\Calculadora_Akak.Form1.resources
+C:\Users\E7440\Documents\akakprograming\Projectos_C#\Calculadora_Akak\Calculadora_Akak\obj\Debug\net8.0-windows\Calculadora_Akak.csproj.GenerateResource.cache
+C:\Users\E7440\Documents\akakprograming\Projectos_C#\Calculadora_Akak\Calculadora_Akak\obj\Debug\net8.0-windows\Calculadora_Akak.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\E7440\Documents\akakprograming\Projectos_C#\Calculadora_Akak\Calculadora_Akak\obj\Debug\net8.0-windows\Calculadora_Akak.AssemblyInfoInputs.cache
+C:\Users\E7440\Documents\akakprograming\Projectos_C#\Calculadora_Akak\Calculadora_Akak\obj\Debug\net8.0-windows\Calculadora_Akak.AssemblyInfo.cs
+C:\Users\E7440\Documents\akakprograming\Projectos_C#\Calculadora_Akak\Calculadora_Akak\obj\Debug\net8.0-windows\Calculadora_Akak.csproj.CoreCompileInputs.cache
+C:\Users\E7440\Documents\akakprograming\Projectos_C#\Calculadora_Akak\Calculadora_Akak\obj\Debug\net8.0-windows\Calculadora_Akak.dll
+C:\Users\E7440\Documents\akakprograming\Projectos_C#\Calculadora_Akak\Calculadora_Akak\obj\Debug\net8.0-windows\refint\Calculadora_Akak.dll
+C:\Users\E7440\Documents\akakprograming\Projectos_C#\Calculadora_Akak\Calculadora_Akak\obj\Debug\net8.0-windows\Calculadora_Akak.pdb
+C:\Users\E7440\Documents\akakprograming\Projectos_C#\Calculadora_Akak\Calculadora_Akak\obj\Debug\net8.0-windows\Calculadora_Akak.genruntimeconfig.cache
+C:\Users\E7440\Documents\akakprograming\Projectos_C#\Calculadora_Akak\Calculadora_Akak\obj\Debug\net8.0-windows\ref\Calculadora_Akak.dll
